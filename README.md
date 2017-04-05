@@ -32,4 +32,9 @@ Once these conditions met, we need to perform some action i.e apply discounts; F
 if condition is met pick up relevant discount and apply on each item of shoppingcart.
 For above example, we can provide discount of 33.33% to customer, and user will get one item free.
 
+Cart:
 
+Once user add one item to shoppingcart, cart item is being evaluated for promotions. If any of the promotion EligibilityCriteria meet, we will pickup discount
+and apply to shopping cart items.
+
+We can make it more configureable by adding discount types. but for this example, i have created several conditions to support all the given scenarios.
