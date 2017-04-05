@@ -1,2 +1,2 @@
 # promoengine
-![Alt text](schema.png?raw=true "Optional Title")
+![Alt text](https://raw.githubusercontent.com/umarkashmiri/promoengine/master/schema.PNG "Optional Title")
