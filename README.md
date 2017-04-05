@@ -40,5 +40,4 @@ and apply to shopping cart items.
 We can make it more configureable by adding discount types. but for this example, i have created several conditions to support all the given scenarios.
 
 Ad rate will remain constant, while cartitem rate will be calculated after applying discounts.
-
 ![Alt text](https://github.com/umarkashmiri/promoengine/blob/master/example-1.PNG?raw=true "DB Schema")
