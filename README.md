@@ -17,7 +17,7 @@ e.g if user tries to buy 2 classic ads and we want to give certain type of user 
 So here is the schema,
 DB schema:
 
-![Alt text](https://raw.githubusercontent.com/umarkashmiri/promoengine/master/schema.PNG "Optional Title")
+![Alt text](https://raw.githubusercontent.com/umarkashmiri/promoengine/master/schema.PNG "DB Schema")
 
 e.g UNILEVER
 
@@ -40,3 +40,5 @@ and apply to shopping cart items.
 We can make it more configureable by adding discount types. but for this example, i have created several conditions to support all the given scenarios.
 
 Ad rate will remain constant, while cartitem rate will be calculated after applying discounts.
+
+![Alt text](https://github.com/umarkashmiri/promoengine/blob/master/example-1.PNG?raw=true "DB Schema")
